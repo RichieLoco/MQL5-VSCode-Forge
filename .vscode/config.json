@@ -1,0 +1,9 @@
+{
+    "metaTraderPath": "C:\\Program Files\\MetaTrader 5\\metaeditor64.exe",
+    "metaTraderTerminalId": "A1B2C3D4E5F60718293A4B5C6D7E8F90",
+    "logFile": "compile.log",
+    "sourceDirectories": [
+        "Experts",
+        "Indicators"
+    ]
+}

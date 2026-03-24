@@ -1,0 +1,12 @@
+[
+    {
+        "key": "ctrl+shift+A",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Compile MQL5 File"
+    },
+    {
+        "key": "ctrl+shift+B",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Compile All MQL5 Files"
+    }
+]
